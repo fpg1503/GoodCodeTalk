@@ -192,7 +192,7 @@
 
 (...)
 # TODO: Desacoplamento usando protocolos
-
+# TODO: Todo ViewController deveria ter um `delegate`
 
 ---
 
@@ -219,7 +219,55 @@
 
 ---
 
+#[fit] What is
+#[fit] **code coverage**?
 
+---
+
+#[fit] Code Coverage
+
+^ In computer science, code coverage is a measure used to describe the degree to which the source code of a program is executed when a particular test suite runs.
+
+---
+
+#[fit] De duas uma:
+
+---
+
+#[fit] Falta teste
+
+---
+
+#[fit] Sobrou código
+
+---
+
+#[fit] Falta teste:
+#[fit] Adicionar mais testes
+
+---
+
+#[fit] Sobrou código:
+#[fit] Apagar código inútil
+
+---
+
+#[fit] 🚨 **Não** 🚨
+#[fit] saia apagando
+#[fit] qualquer coisa!
+
+---
+
+#[fit] Partial functions
+
+---
+
+#[fit] Matt Gallagher
+#[fit] @cocoawithlove
+
+---
+
+#[fit] TL;DR
 
 ---
 
