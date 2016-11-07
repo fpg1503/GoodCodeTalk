@@ -171,6 +171,16 @@
 
 ---
 
+#[fit] E o
+#[fit] código?
+
+
+---
+
+#[fit] Exemplo:
+
+---
+
 #[fit] >> 🐥 
 
 ---
@@ -203,6 +213,10 @@
 
 #[fit] Patos fazem
 #[fit] **quack**
+
+---
+
+#[fit] Ha!
 
 ---
 
@@ -243,7 +257,17 @@ myDuck.quack()
 
 ---
 
-#[fit] Quackable
+#[fit] Vamos fazer
+#[fit] **diferente**
+
+---
+
+#[fit] `Quackable`
+
+---
+
+#[fit] Capaz de fazer
+#[fit] **quack**
 
 ---
 
@@ -259,6 +283,19 @@ protocol Quackable {
 let myQuackable = ...
 myQuackable.quack()
 ```
+
+---
+
+#[fit] 🜎 Filosófico 🜎
+
+---
+
+#[fit] Se **faz quack**
+#[fit] o que mais importa?
+
+---
+
+#[fit] *(nada)*
 
 ---
 
