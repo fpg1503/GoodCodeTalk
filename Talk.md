@@ -179,3 +179,64 @@
 ---
 
 #[fit] **Purpose**?
+
+---
+
+# TODO: Gif Purpose
+
+---
+
+(...)
+
+---
+
+#[fit] Go
+
+---
+
+#[fit] go-proverbs.github.io
+#[fit] @rob_pike 
+
+---
+
+#[fit] The **bigger** the interface,
+#[fit] the *weaker* the abstraction.
+
+---
+
+#[fit] Quanto **maior** o
+#[fit] **`protocol`**
+#[fit] *menor* a abstração
+
+---
+
+#[fit] optional 
+#[fit] protocol
+#[fit] requirements
+
+---
+
+#[fit] opcional
+#[fit] ==
+#[fit] facultativo
+
+---
+
+#[fit] > Swift tem um **bug**!
+
+---
+
+#[fit] > `@objc`
+
+---
+
+#[fit] 👎👎🏿👎🏻👎🏾👎🏼👎🏽
+
+---
+
+#[fit] Se é **opcional**
+#[fit] deveria fazer parte
+#[fit] do protocolo?
+
+---
+
