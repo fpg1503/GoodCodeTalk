@@ -64,17 +64,118 @@
 
 ---
 
-#[fit] francês: `protocole`
-#[fit] inglês: `protocol`
-#[fit] alemão: `Protokoll`
-#[fit] italiano: `protocollo`
-#[fit] espanhol: `protocolo`
+#[fit] >> 😂😂 <<
 
 ---
 
-# TODO: Definição
+#[fit] Wikipedia
 
 ---
 
+## `- Etiqueta`
+## `- Diplomacia`
+## `- Política`
 
+---
 
+## `- Ciência`
+## `- Medicina`
+## `- Comunicações`
+## `- Criptografia`
+
+---
+
+#[fit] Protocolo
+#[fit] **social**
+
+---
+
+#[fit] Estabelecimento
+#[fit] de canal
+
+---
+
+#[fit] >> 👷🏻‍♀️🎅🏿 <<
+
+---
+
+#[fit] >> 🗣💬 <<
+
+---
+
+## > 👷🏻‍♀️: `Oi`
+## > 🎅🏿: `Oi`
+
+---
+
+## > 👷🏻‍♀️: `Tudo bem?`
+
+---
+
+#[fit] 🎅🏿💭
+
+---
+
+#[fit] 🚸🎁 🇨🇳
+
+---
+
+#[fit] 💵⛽️📈
+
+---
+
+#[fit] 💸😰🎄
+
+---
+
+#[fit] 🤔🤔🤔
+ 
+---
+
+## > 🎅🏿: `Tudo ótimo!`
+## > `E você?`
+
+---
+
+## > 👷🏻‍♀️: `Também!`
+## > 🎅🏿: `Que bom!`
+
+---
+
+## > 👷🏻‍♀️: `<Fim>`
+## > 🎅🏿: `<Fim>`
+
+---
+
+#[fit] Acordo
+
+---
+
+#[fit] Conjunto de
+#[fit] **Regras**
+
+---
+
+#[fit] **Facilitar**
+#[fit] as coisas
+
+---
+
+#[fit] >> 🐥 
+
+---
+
+#[fit] `(Sim, isso é um pato)`
+
+---
+
+#[fit] Eu quero
+#[fit] **um pato**!
+
+---
+
+#[fit] Para que?
+
+---
+
+#[fit] **Purpose**?
