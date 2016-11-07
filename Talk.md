@@ -147,6 +147,16 @@
 
 ---
 
+#[fit] Estabelecimento
+#[fit] de canal
+
+---
+
+#[fit] O que é um
+#[fit] **protocolo**?
+
+---
+
 #[fit] Acordo
 
 ---
@@ -183,6 +193,72 @@
 ---
 
 # TODO: Gif Purpose
+
+---
+
+#[fit] Para que
+#[fit] um **pato**?
+
+---
+
+#[fit] Patos fazem
+#[fit] **quack**
+
+---
+
+#[fit] Você **não** quer
+#[fit] um pato!
+
+---
+
+#[fit] Algo que faça
+#[fit] **quack**
+
+---
+
+#[fit] Modelando
+#[fit] meu **pato**
+
+---
+
+#[fit] Abordagem
+#[fit] *"clássica"*
+
+---
+
+```swift
+class Duck: Animal {
+	func quack() {
+		print("Quack, quack!")
+	}
+}
+```
+
+---
+
+```swift
+let myDuck = Duck(...)
+myDuck.quack()
+```
+
+---
+
+#[fit] Quackable
+
+---
+
+```swift
+protocol Quackable {
+	func quack()
+}
+```
+
+---
+
+```swift
+let myQuackable = ...
+myQuackable.quack()
+```
 
 ---
 
