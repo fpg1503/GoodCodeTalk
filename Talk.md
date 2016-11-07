@@ -186,8 +186,40 @@
 
 ---
 
+#[fit] **S**OLID
+
+---
+
 (...)
 # TODO: Desacoplamento usando protocolos
+
+
+---
+
+(...) Teste
+
+---
+
+#[fit] `public`
+#[fit] **deve** ser testada
+
+---
+
+#[fit] Cobertura de teste
+#[fit] **deve** ser 100%
+
+---
+
+#[fit] Componentes conversam
+#[fit] pela interfaces
+
+---
+
+#[fit] SOLI**D**
+
+---
+
+
 
 ---
 
@@ -208,6 +240,10 @@
 #[fit] Quanto **maior** o
 #[fit] **`protocol`**
 #[fit] *menor* a abstração
+
+---
+
+#[fit] SOL**I**D
 
 ---
 
