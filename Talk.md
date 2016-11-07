@@ -187,6 +187,7 @@
 ---
 
 (...)
+# TODO: Desacoplamento usando protocolos
 
 ---
 
@@ -240,3 +241,29 @@
 
 ---
 
+#[fit] `interface{}` 
+#[fit] says **nothing**.
+
+---
+
+#[fit] `protocol<>` 
+#[fit] não diz **nada**.
+
+---
+
+#[fit] `protocol<>`
+#[fit] ==
+#[fit] `Any`
+
+---
+
+#[fit] Protocolos estão
+#[fit] no core de Swift
+
+---
+
+#[fit] Types matter
+
+---
+
+#[fit] Type safety
