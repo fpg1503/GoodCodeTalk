@@ -161,7 +161,7 @@ guard let value = value else {
 ---
 
 #[fit] `(Any?, Error?)`
-#[fit] é um **tipor ruim**
+#[fit] é um **tipo ruim**
 
 ---
 
