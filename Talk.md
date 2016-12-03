@@ -22,7 +22,61 @@
 
 ---
 
-# TODO: Intro
+#[fit] Qualidade
+#[fit] de código
+
+---
+
+#[fit] >> 🙋🙋‍♂️ <<
+
+---
+
+#[fit] Swift
+
+---
+
+#[fit] Testes
+
+---
+
+#[fit] Já escrevou
+#[fit] código **ruim**
+
+---
+
+#[fit] Eu também
+
+---
+
+#[fit] >> 😅😅 <<
+
+---
+
+#[fit] Qualidade
+#[fit] de código
+
+
+---
+
+#[fit] O que é?
+
+---
+
+#[fit] Código limpo
+
+---
+
+#[fit] Minha
+#[fit] opinião
+
+---
+
+#[fit] Atemporal
+
+---
+
+#[fit] Agnóstico
+#[fit] a arquiteturas
 
 ---
 
@@ -30,7 +84,7 @@
 
 ---
 
-#[fit] > isolado
+#[fit] > isoladamente
 
 ---
 
@@ -38,7 +92,173 @@
 
 ---
 
-# TODO: Isolado
+#[fit] > isoladamente
+
+---
+
+#[fit] Um trecho
+#[fit] >> isolado <<
+
+
+---
+
+#[fit] > isolado
+
+---
+
+#[fit] Force unwrap
+
+---
+
+```swift
+guard error == nil else {
+	doSomething(with: error!)
+}
+```
+
+---
+
+#[fit] Diversos problemas
+
+---
+
+#[fit] Force unwrap
+
+---
+
+#[fit] Mas `error`
+#[fit] sempre
+#[fit] vai existir
+
+---
+
+#[fit] **Não** garantido
+#[fit] pelo compilador
+
+---
+
+#[fit] Checar o **retorno**,
+#[fit] não o erro
+
+---
+
+```swift
+guard let value = value else {
+	//error is still optional
+}
+```
+
+---
+
+
+```swift
+guard let value = value else {
+	doSomething(with: error) //accepts optional
+}
+
+```
+
+---
+
+#[fit] `(Any?, Error?)`
+#[fit] é um **tipor ruim**
+
+---
+
+#[fit] `Result`
+
+---
+
+#[fit] `Result<[Person], Error>`
+
+---
+
+#[fit] 2 estados
+
+---
+
+#[fit] vs.
+
+---
+
+#[fit] 4 estados
+
+---
+
+#[fit] Tipos são
+#[fit] **amigos**
+
+---
+
+#[fit] 💙💙💙
+
+---
+
+#[fit] Crie um tipo
+#[fit] que te **atenda**
+
+---
+
+#[fit] Enum
+
+---
+
+#[fit] vs.
+
+---
+
+#[fit] Bools
+
+---
+
+#[fit] Code
+#[fit] Style
+
+---
+
+#[fit] Code
+#[fit] Smell
+
+---
+
+#[fit] SwiftLint
+
+---
+
+#[fit] Force try
+
+---
+
+#[fit] Legacy CG functions
+
+---
+
+#[fit] Weak delegate
+
+---
+
+#[fit] *Stringly*-typed
+#[fit] APIs
+
+---
+
+#[fit] Segues, Cells
+
+---
+
+#[fit] Storyboard
+
+---
+
+#[fit] Natalie
+
+---
+
+#[fit] R.swift
+
+---
+
+#[fit] Swiftgen
 
 ---
 
@@ -202,7 +422,7 @@
 
 ---
 
-# TODO: Gif Purpose
+![](purpose.jpg)
 
 ---
 
@@ -303,13 +523,25 @@ myQuackable.quack()
 
 ---
 
-(...)
-# TODO: Desacoplamento usando protocolos
-# TODO: Todo ViewController deveria ter um `delegate`
+#[fit] Use protocolos
 
 ---
 
-(...) Teste
+#[fit] Todo ViewController
+#[fit] deveria ter um `delegate`
+
+---
+
+#[fit] Artigo
+#[fit] @diogot
+
+---
+
+#[fit] Teste!
+
+---
+
+#[fit] >> 🛠🛠🛠 << 
 
 ---
 
@@ -371,6 +603,11 @@ myQuackable.quack()
 
 ---
 
+#[fit] \(Use controle
+#[fit] de versão)
+
+---
+
 #[fit] Partial functions
 
 ---
@@ -381,6 +618,48 @@ myQuackable.quack()
 ---
 
 #[fit] TL;DR
+
+---
+
+#[fit] Quick, Nimble
+
+^ BDD, Matchers
+
+---
+
+```swift
+class TableOfContentsSpec: QuickSpec {
+  override func spec() {
+    describe("the 'Documentation' directory") {
+      it("has everything you need to get started") {
+        let sections = Directory("Documentation").sections
+        expect(sections).to(contain("Organized Tests with Quick Examples and Example Groups"))
+        expect(sections).to(contain("Installing Quick"))
+      }
+
+      context("if it doesn't have what you're looking for") {
+        it("needs to be updated") {
+          let you = You(awesome: true)
+          expect{you.submittedAnIssue}.toEventually(beTruthy())
+        }
+      }
+    }
+  }
+}
+```
+
+---
+
+#[fit] SwiftCheck
+
+---
+
+#[fit] QuickCheck
+#[fit] \(Haskell)
+
+---
+
+#[fit] \(nunca usei)
 
 ---
 
@@ -464,3 +743,189 @@ myQuackable.quack()
 ---
 
 #[fit] Type safety
+
+
+---
+
+#[fit] Time
+
+---
+
+#[fit] Code review
+
+---
+
+#[fit] Meu primeiro
+#[fit] **PR** rejeitado
+
+---
+
+#[fit] >> 😰😢😭 <<
+
+---
+
+#[fit] Danger
+
+---
+
+#[fit] Pair programming
+
+---
+
+#[fit] 👨‍❤️‍👨
+
+---
+
+#[fit] **Entender**
+#[fit] o problema
+
+---
+
+#[fit] **Ninguém** escreve
+#[fit] só código bom
+
+---
+
+#[fit] \(nem de primeira)
+
+---
+
+#[fit] Refactoring
+
+---
+
+#[fit] Playgrounds
+
+---
+
+#[fit] ThisCouldBeUsButYouPlaying
+
+---
+
+#[fit] Vida
+#[fit] Real
+
+---
+
+#[fit] Quanto **tempo**
+#[fit] o app vai viver?
+
+---
+
+#[fit] Done > Perfect
+
+---
+
+#[fit] "Premature Optimization is
+#[fit] the root of all evil"
+
+---
+
+#[fit] Explicitar hacks
+
+---
+
+#[fit] //FIXME
+
+---
+
+#[fit] Explicativo
+
+---
+
+#[fit] Data
+
+---
+
+#[fit] HACKS.md
+
+---
+
+#[fit] eigen
+
+---
+
+#[fit] Ah!
+
+---
+
+#[fit] O **mito**
+#[fit] do crash-free
+
+---
+
+#[fit] Crash-free
+#[fit] **não** é tudo
+
+---
+
+#[fit] Escreva código
+#[fit] **para humanos**
+
+---
+
+#[fit] Seja
+#[fit] consciente
+
+---
+
+#[fit] >> 💡 <<
+
+---
+
+#[fit] >> 💉🚖💰 <<
+
+---
+
+#[fit] Conheça seu time
+
+---
+
+#[fit] Caso
+#[fit] recente
+
+---
+
+#[fit] Kapeli
+
+---
+
+#[fit] Dash
+
+---
+
+#[fit] **Não**
+#[fit] seja esse cara
+
+---
+
+#[fit] 💜💙💛💚
+
+---
+
+![](itunes.png)
+
+---
+
+#[fit] Ou seja
+
+---
+
+#[fit] Automatize
+
+---
+
+#[fit] Compartilhe
+
+---
+
+#[fit] Reflita
+
+---
+
+#[fit] github.com/fpg1503/GoodCodeTalk
+
+---
+
+#[fit] Obrigado!
+
