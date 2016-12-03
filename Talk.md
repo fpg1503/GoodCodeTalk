@@ -229,6 +229,10 @@ guard let value = value else {
 
 ---
 
+#[fit] Force cast
+
+---
+
 #[fit] Legacy CG functions
 
 ---
@@ -259,6 +263,12 @@ guard let value = value else {
 ---
 
 #[fit] Swiftgen
+
+
+---
+
+#[fit] **Don't** fight the
+#[fit] type system
 
 ---
 
@@ -798,7 +808,7 @@ class TableOfContentsSpec: QuickSpec {
 
 ---
 
-#[fit] ThisCouldBeUsButYouPlaying
+#[fit] `ThisCouldBeUsButYouPlaying`
 
 ---
 
@@ -923,9 +933,12 @@ class TableOfContentsSpec: QuickSpec {
 
 ---
 
-#[fit] github.com/fpg1503/GoodCodeTalk
+#[fit] `github.com/fpg1503/GoodCodeTalk`
 
 ---
 
 #[fit] Obrigado!
 
+---
+
+#[fit] @fpg1503
