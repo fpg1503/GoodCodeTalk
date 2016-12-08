@@ -39,7 +39,7 @@
 
 ---
 
-#[fit] Já escrevou
+#[fit] Já escreveu
 #[fit] código **ruim**
 
 ---
